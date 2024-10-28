@@ -9,7 +9,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://tiles.openfreemap.org/styles/liberty"
+      "url": "https://api.maptiler.com/tiles/v3-openmaptiles/tiles.json?key=ewXdrcP0AWCh8fjVG9a6"
     },
     "natural_earth_shaded_relief": {
       "maxzoom": 6,
